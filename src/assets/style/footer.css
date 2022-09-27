@@ -1,0 +1,17 @@
+footer {
+    background-color: #08020a;
+    position: relative;
+    bottom: 0;
+    color: white;
+    height: 70px;
+}
+
+img {
+    width: 2.5%;
+    margin: 4px;
+}
+
+.footer_img {
+    position: relative;
+    left: 85%
+}
